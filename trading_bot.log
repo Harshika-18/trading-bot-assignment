@@ -1,0 +1,22 @@
+2025-10-09 23:59:47,595 - INFO - Initialized Binance client in testnet mode
+2025-10-10 15:48:44,388 - INFO - Initialized Binance client in testnet mode
+2025-10-10 16:42:45,941 - INFO - Initialized Binance client in testnet mode
+2025-10-10 16:46:16,070 - INFO - Initialized Binance client in testnet mode
+2025-10-10 16:46:44,417 - INFO - Request: BUY BTCUSDT MARKET 0.001
+2025-10-10 16:46:44,849 - ERROR - API error placing market order: An unknown error occurred while processing the request.
+2025-10-10 16:46:53,677 - INFO - Request: BUY BTCUSDT MARKET 0.001
+2025-10-10 16:46:54,060 - ERROR - API error placing market order: An unknown error occurred while processing the request.
+2025-10-10 19:46:41,019 - INFO - Initialized Binance client in testnet mode
+2025-10-10 19:46:56,088 - INFO - Request: BUY BTCUSDT MARKET 0.01
+2025-10-10 19:46:56,283 - INFO - Market order placed: {'orderId': 5729056360, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ4c8b238f4ec15b3d29f7ed', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1760105816772}
+2025-10-10 19:46:56,520 - INFO - Order status: FILLED
+2025-10-10 19:57:49,039 - INFO - Request: SELL BTCUSDT MARKET 0.01
+2025-10-10 19:57:49,538 - INFO - Market order placed: {'orderId': 5729126460, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ506af450fa522cdebe5198', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1760106470026}
+2025-10-10 19:57:50,038 - INFO - Order status: FILLED
+2025-10-10 20:28:03,112 - INFO - Initialized Binance client in testnet mode
+2025-10-10 20:28:25,660 - INFO - Request: BUY BTCUSDT MARKET 0.01
+2025-10-10 20:28:26,011 - INFO - Market order placed: {'orderId': 5729322183, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ179479a4b614a335447ddd', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1760108306518}
+2025-10-10 20:28:26,373 - INFO - Order status: FILLED
+2025-10-10 20:28:41,976 - INFO - Request: SELL BTCUSDT MARKET 0.01
+2025-10-10 20:28:42,334 - INFO - Market order placed: {'orderId': 5729322337, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ25dc98918dbb9986e1e8fe', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.010', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1760108322844}
+2025-10-10 20:28:42,473 - INFO - Order status: FILLED
